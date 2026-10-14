@@ -7,6 +7,4 @@ const second = ()=>{
 }
 "syncing all the changes "
 
-"making changes from another branch"
-"working on new feature"
-"raising a pr and syncing it"
+"working on new feature from developer branch"

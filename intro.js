@@ -5,4 +5,5 @@ function intro(){
 const second = ()=>{
     console.log("second change")
 }
+"syncing all the changes "
 
